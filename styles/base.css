@@ -1,0 +1,60 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+header{
+    background-color: #efefef;
+}
+
+.columns:not(:last-child) {
+    margin-bottom:0;
+}
+
+.ref{
+    margin-left:75px;
+    text-decoration: none;
+}
+
+.pic1{
+    width: 340px;
+    height: 110px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.green{
+    color:green;
+}
+
+.info{
+    text-align: right;
+    font-size: 0.8rem;
+}
+
+.avail{
+    margin:34px 90px;
+    padding:0;
+}
+
+
+.menu{
+    background-color: black;
+}
+
+.items {
+    display:flex;
+    margin-left:95px;
+    font-size: 0.85rem;
+}
+
+.items a{
+    color:white;
+}
+
+.items a li{
+    margin-left:20px;
+    padding-bottom:3px;
+}
